@@ -1,2 +1,2 @@
-31/bin/bash
-chown betty:school
+#!/bin/bash
+chown betty:staff
