@@ -1,1 +1,2 @@
-#!/bin/bashchown -h betty:school_hello
+#!/bin/bash
+chown -h _hello:vincent
