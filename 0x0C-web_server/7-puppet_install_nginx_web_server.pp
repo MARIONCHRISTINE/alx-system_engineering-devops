@@ -59,7 +59,6 @@ file { 'Nginx default config file':
         location  /404.html {
             internal;
         }
-        
         if (\$request_filename ~ redirect_me){
             rewrite ^ https://www.youtube.com/watch?v=QH2-TGUlwu4 permanent;
         }
