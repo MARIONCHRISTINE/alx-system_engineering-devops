@@ -43,6 +43,5 @@ Please, be patient..." href="/servers/9390/ask_new">
           </div>
         </td>
       </tr>
-    
   </tbody>
 </table>
